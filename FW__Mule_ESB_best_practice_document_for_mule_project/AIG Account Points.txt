@@ -1,0 +1,42 @@
+From: Shah, Vimal
+Sent: Friday, September 8, 2017 11:05 AM
+To: Ghuge, Shrikant; Upadhyay, Harsh; Srivastava, Sumit
+Subject: AIG Account Points
+
+ 
+Hi All,
+ 
+                Please find the below details what we have discussed with Saikat for the AIG Account.
+ 
+·         CI/CD with Maven/Jenkins/Jenkins with Pipeline/Puppet(Basic Knowledge)
+·         WPS
+·         Mule ESB
+·         Mule API/Mule API Manager
+·         Mule Soft Optimization Technique (Best Practices)
+·         GIT SCM
+·         Nexus Repository
+·         MUnit – Unit testing for Mule
+·         Scrum/Agile Methodology
+·         Basic knowledge of how to create technical user story and Mule Flow high level design
+·         JIRA
+·         Custom Connectors in Mule
+·         MEL -> Mule Expression Language
+·         Pattern in Mule ESB
+·         Cucumber for Code Quality/Coverage
+·         ALM Issue Tracker/JIRA Issue Tracking
+·         Data Power Gateway
+·         IBM DMG which provides Load Balancing, Authentication, Security etc.
+ 
+Please add if I missed something.
+ 
+Regards,
+Vimal Shah
+
+-----------------------------------------------------------------
+https://github.com/tridentcg/devops_springmvc.git
+-----------------------------------------------------------------
+
+http://10.102.103.139:8080/jenkins/
+-----------------------------------------------------------------
+tridentcg
+India360
